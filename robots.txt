@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahngeegha.quobit.net/sitemap.xml
